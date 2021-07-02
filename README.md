@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meptt
-- 👀 I’m interested in Programming and Cybersecurity
+- 👀 I’m interested in Programming and Cyber Security
 - 🌱 I’m currently learning Cyber Security and improving Python and GO skills
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: Dunno :)
